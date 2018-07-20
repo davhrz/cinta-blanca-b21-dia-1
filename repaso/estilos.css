@@ -1,0 +1,14 @@
+.img-container{
+	height: 400px;
+}
+
+.img-container .img-up{
+	transform: translateY(-20%) scale(1.5);  /*acercamiento o escala*/
+}
+.custom-card{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDLJFrdEx_r6OxNUxdAQIvCP1hhKeNe9jXnMNAGoEniAfN1QE);
+
+background-size: 60%;
+background-repeat: no-repeat; 
+background-position: center /*right*/;
+}

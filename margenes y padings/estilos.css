@@ -1,0 +1,10 @@
+.edificio{
+	border: 1px solid;
+	padding-left: 10px;
+	/*tambien funcionaria con un margen */
+}
+
+.habitacion{
+	border: 1px solid red;
+
+}

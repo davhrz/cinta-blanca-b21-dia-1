@@ -1,0 +1,39 @@
+
+.header{
+	border: solid 1px;
+	color: black;
+
+}
+
+.nav1{
+	background: white;
+
+}
+
+
+.main{
+	border: solid 1px;
+	color:black;
+
+}
+
+.nav2{
+	background: white;
+
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+a{
+	font-size: 1px;
+	font-family: arial;
+
+
+}
+
+a:hover{
+	color:#039BE5;
+}

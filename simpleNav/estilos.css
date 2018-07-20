@@ -1,0 +1,42 @@
+/**{
+	border: 1px solid; para saber que espacio ocupan las cosas y donde se encuentran
+}*/ 
+
+.header{
+	border: solid 1px;
+
+}
+
+.nav{
+	/*border: 1px solid red;*/
+	background: #BBDEFB;
+
+}
+.lista{
+	/*border: 2px solid blue;*/
+	text-align: center;
+}
+
+li{
+
+	/*aa
+
+	color: white;
+	background: blue;
+	width: 200px;
+	height: 30px;*/
+	/*border: solid 1px;*/
+	list-style: none;
+	display: inline-block;
+	margin-right:50px;
+
+}
+a{
+	font-size: 1rem;
+	font-family: Impact;
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color:red;
+}

@@ -1,0 +1,16 @@
+/*flexbox sirve para poner posicionamientos*/
+.papa{
+	border: solid 1px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	height: 400px;
+}
+
+.hijo{
+	border: 1px solid blue;
+	height: 50px;
+	/*ancho*/
+	width: 20%;
+	/*buscamos q haya el mismo margen a los lados y entre los cuadros*/
+}

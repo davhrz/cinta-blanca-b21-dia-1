@@ -1,0 +1,16 @@
+/*img{
+	width: 200px;
+}*/
+.titulo{
+	border: 1px solid;
+	display: inline;
+	/*inline  hace peque todo pero la altura no la puedes editar,es para q el elemento no ocupe todo el ancho de la pag y con esta podemos poner varios elementos en la misma linea a dif del block que con si se ocupa todo  y mandoa todo lo demas pa bajoy el inline block ocupa todo pero si puedes modificar la altura*/
+	height: 200px;
+}
+.parrafo{
+	border: 1px solid;
+}
+.imagen-p{
+	border: 1px solid;
+	width: 200px;
+}

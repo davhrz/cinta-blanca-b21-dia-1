@@ -1,0 +1,35 @@
+/*esto es para saber si estan anidos los archivos*/
+
+/*h1 selectores de etiqueta
+.titulo selectores de clase
+#principal selectores de ID*/
+
+h1 {
+	/*agrabdar la letra con pixels*/
+	font-size: 60px;
+	/*con rem para que sea mas universal*/
+	font-size: 1.4rem;
+
+	/*propiedad-valor*/
+	/* es para seleccionar el tipo de letra*/
+	font-family: Arial, Helvetica;
+	color: rgb(0,0,0 );
+	color: rgba(0,0,0 .5);
+	color: red;
+	/*de que ancho va a a ser el borde y de que tipo ej punteado linea etc y un espacio y red para poner lo de color rojo*/
+	border: 1px solid red;
+	/*para centrar el texto*/
+	text-align: center;
+}
+
+	/*el .5 el la transparencia donde .1 es el mas peque, y 1 solo es el color en solido*/
+	body{
+
+       background: #1565C0
+	}
+	
+	/*color y background son dif formas de modificar el color*/ 
+
+
+
+}

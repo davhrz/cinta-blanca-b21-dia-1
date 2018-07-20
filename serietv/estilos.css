@@ -1,0 +1,50 @@
+.header{
+	background: #FFA000;
+	vertical-align: center;
+}
+
+.nav{
+	background: #FFA000;
+	text-align: center;
+}
+.lista{
+	text-align: center;
+}
+
+.encabezado{
+	/*margin-right: 50px;*/
+	display: inline-block;
+	font-family: arial;
+	font-size: 100px;
+}
+.home{
+	margin-left: 30px;
+}
+
+.fotos{
+	margin-right: 30px;
+}
+
+h1{
+	text-align: center;
+	font-family: comic-sans-SM, roboto, arial;
+	margin-top: 1.5px;
+}
+
+h2{
+	text-align: center;
+	font-family: open Sans, roboto, arial;
+	margin-top: 1.5px;
+}
+.principal{
+	text-align: center;
+}
+img{
+	border:1px;
+}
+
+div{
+	
+	border: 1px solid black;
+	text-align: center;
+}
